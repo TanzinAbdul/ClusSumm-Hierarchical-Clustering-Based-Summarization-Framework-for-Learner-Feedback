@@ -15,5 +15,5 @@ To get started with ClusSumm, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ClusSumm.git
-   cd ClusSumm
+   git clone https://github.com/TanzinAbdul/ClusSumm-Hierarchical-Clustering-Based-Summarization-Framework-for-Learner-Feedback
+   cd ClusSumm-Hierarchical-Clustering-Based-Summarization-Framework-for-Learner-Feedback
